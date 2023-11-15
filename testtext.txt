@@ -5,4 +5,4 @@
 PR템플릿 테스트 231115
 master 없음 / develop 있음 / feature 있음+변경 -> 템플릿 미기동.
 master 있음 / develop 있음 / feature 있음+변경 -> 템플릿 기동
-master 있음 / develop 없음 / feature 없음+변경 -> 테스트중...
+master 있음 / develop 없음 / feature 없음+변경 -> 템플릿 기동
